@@ -4,8 +4,8 @@ import java.util.*;
 /**
  * Write a description of class CelebrityNames here.
  * 
- * @author Roger Jaffe
- * @version 2015-01-19 
+ * @author James Marr
+ * @version  
  */
 public class CelebrityNames
 {
